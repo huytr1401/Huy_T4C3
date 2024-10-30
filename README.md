@@ -1,19 +1,151 @@
-<h1 align="center">Hi 👋, I'm Tran Gia Huy</h1>
-<h3 align="center">A passionate fullstack developer from VietNam</h3>
+<!-- Hình ảnh đại diện -->
+<img align="right" width="150" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" src="https://github.com/MinhHuy.png" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=huytr1401&label=Profile%20views&color=0e75b6&style=flat" alt="huytr1401" /> </p>
+# 👋 Xin chào! Tôi là Minh Huy
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=huytr1401" alt="huytr1401" /></a> </p>
+### 🌟 Sinh viên Kỹ thuật Phần mềm | HUFLIT
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/tghuy141" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tghuy141" height="30" width="40" /></a>
-<a href="https://instagram.com/tghuy._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tghuy._" height="30" width="40" /></a>
+*Là một sinh viên đam mê công nghệ*, tôi không ngừng tìm kiếm cơ hội để phát triển bản thân và học hỏi những điều mới mẻ trong lĩnh vực phát triển phần mềm. Tôi tin rằng công nghệ có thể mang lại những giải pháp mạnh mẽ cho các vấn đề thực tiễn, và tôi rất hứng thú với việc tham gia vào các dự án thực tế để áp dụng kiến thức đã học. *Là thành viên của [Nhóm Phát triển HUFLIT](#nhóm)*, tôi làm việc cùng với các bạn sinh viên để tạo ra các sản phẩm sáng tạo có giá trị cho cộng đồng.
+
+---
+
+## 📘 Về tôi
+
+- 🎓 *Học vấn*: Kỹ thuật Phần mềm tại *Trường Đại học Ngoại ngữ và Tin Học (HUFLIT)*.
+- 👤 *Giới thiệu*: Tôi là người trẻ tuổi, nhiệt huyết và sáng tạo. Từ khi còn nhỏ, tôi đã có niềm đam mê với máy tính và công nghệ. Tôi thích khám phá các ứng dụng mới, cũng như tìm hiểu cách các hệ thống hoạt động.
+- 👥 *Nhóm*: Thành viên tích cực trong *Nhóm Phát triển HUFLIT*, thực hiện các dự án công nghệ để rèn luyện kỹ năng và tạo ra sản phẩm có giá trị. 
+- 🌱 *Tập trung hiện tại*: Các dự án liên quan đến *Phát triển Web* và *Quản lý Dữ liệu*.
+
+---
+
+## 🔍 Dự án hiện tại và đã hoàn thành
+
+### 1. Hệ thống quản lý sinh viên
+Một hệ thống toàn diện với các chức năng chính như:
+
+#### 📚 Chức năng chính:
+- *Quản lý thông tin sinh viên*: Thêm, sửa, xóa thông tin sinh viên bao gồm tên, tuổi, giới tính, địa chỉ và số điện thoại.
+- *Quản lý điểm*: Nhập và theo dõi điểm của sinh viên cho từng môn học, tạo báo cáo điểm tổng kết.
+- *Quản lý lớp học*: Thêm, sửa, xóa thông tin lớp học, bao gồm tên lớp, số lượng sinh viên và danh sách sinh viên.
+- *Quản lý lịch học*: Tạo và quản lý lịch học cho từng lớp học.
+- *Quản lý thông tin giảng viên*: Thêm, sửa, xóa thông tin giảng viên.
+- *Quản lý điểm danh*: Theo dõi sự có mặt của sinh viên.
+- *Quản lý thông báo*: Gửi thông báo đến sinh viên về các thông tin quan trọng.
+
+### Dự án đang tiến hành:
+- *Hệ thống quản lý thư viện*: Nền tảng số để quản lý sách thư viện và theo dõi việc mượn/trả sách.
+
+### Dự án đã hoàn thành:
+- *Ứng dụng Dự báo Thời tiết*: Ứng dụng web sử dụng *React* cung cấp dữ liệu thời tiết theo thời gian thực.
+- *Nguyên mẫu Website Thương mại Điện tử*: Nguyên mẫu thương mại điện tử sử dụng *Node.js*, *Express* và *MongoDB*.
+- *Hệ thống quản lý sự kiện*: Ứng dụng quản lý sự kiện cho các tổ chức.
+- 
+
+---
+
+## 💻 Công nghệ và Kỹ năng
+
+*Ngôn ngữ lập trình*:  
+<p>
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" style="margin: 5px;" />
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" style="margin: 5px;" />
+  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" style="margin: 5px;" />
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" style="margin: 5px;" />
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" style="margin: 5px;" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+*Frameworks & Thư viện*:  
+<p>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" style="margin: 5px;" />
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" style="margin: 5px;" />
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" style="margin: 5px;" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=huytr1401&show_icons=true&locale=en&layout=compact" alt="huytr1401" /></p>
+*Công cụ & Nền tảng*:  
+<p>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" style="margin: 5px;" />
+  <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" style="margin: 5px;" />
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" style="margin: 5px;" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huytr1401&show_icons=true&locale=en" alt="huytr1401" /></p>
+---
+## Skills:
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/> 
+  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+  <img src="https://img.icons8.com/fluent/48/000000/matlab.png"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png"/>
+  <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
+  <img src="https://img.icons8.com/dusk/48/000000/anaconda.png"/>
+  <img src="https://img.icons8.com/fluent/48/000000/spyder-ide.png"/>
+  <img src="https://img.icons8.com/color/48/000000/trello.png"/>
+</p>
+
+
+## 🌱 Mục tiêu tương lai
+
+- *Phát triển Web*: Nâng cao kỹ năng phát triển full-stack bằng cách làm việc trên các ứng dụng web phức tạp hơn.
+- *Khoa học Dữ liệu*: Khám phá lĩnh vực phân tích dữ liệu và máy học.
+- *Hợp tác*: Tiếp tục hợp tác với các bạn và người hướng dẫn để cải thiện các phương pháp lập trình và nguyên tắc thiết kế phần mềm.
+
+---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=minhhuy&show_icons=true&theme=highcontrast" alt="GitHub stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhhuy&layout=compact&theme=highcontrast" alt="Top languages" width="400" />
+</p>
+## Activities:
+
+<table style="width:100%;">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="tiennhm" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="tiennhm" width="100%"/>
+    </td>
+    <td>
+      <p align="center"> 
+        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+      </p>
+    </td>
+  </tr>
+</table>
+# Certificates:
+
+<img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
+
+- [![MATLAB](https://img.shields.io/badge/-MATLAB-orange) Onramp](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=c2f444b8-d6ce-4eef-9934-48d7fa7da2d1)
+- [![MATLAB](https://img.shields.io/badge/-MATLAB-orange) Machine Learning Onramp](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=ad7fb8de-67d7-487f-95ee-f3871a61b1e1)
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Introduction to JavaScript](https://www.coursera.org/account/accomplishments/certificate/XFNU3UXCK5DG)
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Audio Classification with TensorFlow](https://www.coursera.org/account/accomplishments/certificate/MBSDFCKQ9X8E)
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Python Data Structures](https://www.coursera.org/account/accomplishments/certificate/PQMJRCLM7BCQ)
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Programming for Everybody (Getting Started with Python)](https://www.coursera.org/account/accomplishments/certificate/V7MK7JDL96DU)
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Capstone: Retrieving, Processing, and Visualizing Data with Python](https://www.coursera.org/account/accomplishments/certificate/DVXXD98ESKLP)
+- [![KAGGLE](https://img.shields.io/badge/-KAGGLE-blue) Python](https://www.kaggle.com/learn/certification/nguyenhuynhminhtien/python)
+- [![KAGGLE](https://img.shields.io/badge/-KAGGLE-blue) Intro to Machine Learning](https://www.kaggle.com/learn/certification/nguyenhuynhminhtien/intro-to-machine-learning)
+- [![KAGGLE](https://img.shields.io/badge/-KAGGLE-blue) Intro to Deep Learning](https://www.kaggle.com/learn/certification/nguyenhuynhminhtien/intro-to-deep-learning)
+- biểu đồ hoạt động github
+- ![TienNHM's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TienNHM&theme=dracula&custom_title=Theme+dracula)
+
+
+
+
+
+## 📫 Kết nối với tôi
+
+Bạn có thể kết nối với tôi qua các nền tảng sau:  
+<p>
+  <a href="mailto:minhhuy.huflit@gmail.com">
+    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Email" style="margin: 5px;" />
+  </a>
+  <a href="https://linkedin.com/in/minh-huy" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" style="margin: 5px;" />
+  </a>
+  <a href="https://github.com/MinhHuy" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" style="margin: 5px;" />
+  </a>
+</p>
